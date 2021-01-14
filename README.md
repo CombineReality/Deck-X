@@ -1,11 +1,11 @@
 # Deck X
 CombineReality's open-source AR headset based on Leap Motion's Project North Star.
 
+ <a href="https://combinereality.com/deck-x"><img src="https://combinereality.com/wp-content/uploads/2020/08/DSC_1933-min-min.jpg" width="300px"><img src="https://combinereality.com/wp-content/uploads/2020/08/DSC_1935-min-1-min.jpg" width="300px"></a>
+
 We've created a new repo because our fork had gotten a little untidy and we weren't yet ready to make pull requests.
 
 Many of the parts in this repo are either taken directly from Leap Motion's original mechanical design. The optics brackets are derivatives of Florian Maurer's <a href="https://github.com/leapmotion/ProjectNorthStar/tree/master/Mechanical/Development">version 3.2 development work.</a>
-
- <a href="https://combinereality.com/deck-x"><img src="https://combinereality.com/wp-content/uploads/2020/08/DSC_1933-min-min.jpg" width="300px"><img src="https://combinereality.com/wp-content/uploads/2020/08/DSC_1935-min-1-min.jpg" width="300px"></a>
 
 Calibration Stand folder & files are copied from the <a href="https://github.com/leapmotion/ProjectNorthStar">Project North Star repo</a>.
 
