@@ -11,7 +11,7 @@ Calibration Stand folder & files are copied from the <a href="https://github.com
 
 Assembly guide for Deck X with threaded inserts: https://project-north-star.gitbook.io/project-north-star/mechanical/combine-reality-deck-x/deck-x-assembly-guide (Assembly guide for Deck X without threaded inserts is coming soon!) If you have any questions about how things fit together, please check the STEP files and ask for help on the Discord server. We're here for you!
 
-The original software setup and calibration instructions for Project North Star can be found here: https://github.com/leapmotion/ProjectNorthStar/tree/master/Software
+The original software setup and calibration instructions for Project North Star can be found here: https://project-north-star.gitbook.io/project-north-star/
 
 You should also consult with the community on Discord to find out about the current state of North Star software development. There's a lot going on, and documentation updates are in the works.
 
@@ -20,5 +20,5 @@ You should also consult with the community on Discord to find out about the curr
 ## Resources
 * Project North Star <a href="https://discord.gg/fV8qfWm">Discord</a>
 * Our <a href="https://combinereality.com">website</a>
-* Build guide for v3.1 by <a href="https://guillesanbri.github.io/Building-Process/">Guillesanbri</a> and <a href="https://youtu.be/J-OowCNcR8A">Tasuku</a>
+* Deck X <a href="https://project-north-star.gitbook.io/project-north-star/mechanical/combine-reality-deck-x/deck-x-assembly-guide">Assembly Guide</a>
 * <a href="https://blog.leapmotion.com/northstar/">Leap Motion Blog</a>
